@@ -1,0 +1,16 @@
+{
+  "name": "charge_with_solar",
+  "version": "1.0.0",
+  "description": "Toggle battery chargers when solar energy is being returned to the grid",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
